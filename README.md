@@ -22,5 +22,6 @@ A simple vocoder project that utilizes Short Time Fourier Transform for noise re
 5. Run the file `python talking_instrument_scipy_stft_gui.py`
 
 ## Useful resources
-[Saint James Orchestra Soundfonts](https://github.com/open-soundfonts/Saint_James_Orchestra_soundfonts) (Contains rich samples for many pitches)
-[FluidR3 Soundfonts](https://github.com/Jacalz/fluid-soundfont) (Contains only one sample of one tone for each instrument)
+Soundfonts
+- [Saint James Orchestra Soundfonts](https://github.com/open-soundfonts/Saint_James_Orchestra_soundfonts) (Contains rich samples for many pitches)
+- [FluidR3 Soundfonts](https://github.com/Jacalz/fluid-soundfont) (Contains only one sample of one tone for each instrument)
